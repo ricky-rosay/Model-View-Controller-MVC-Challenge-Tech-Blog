@@ -27,9 +27,5 @@
     "mysql2": "^2.1.0",
     "nodemon": "^2.0.4",
     "sequelize": "^5.21.13"
-  },
-  "devDependencies": {
-    "@creativebulma/bulma-divider": "^1.1.0",
-    "jest": "^26.0.1"
   }
 }
